@@ -73,10 +73,14 @@ python3 organizer.py
 
 ---
 
-## 🧐 Upcoming: AI Summarization
+### 5. AI Summarization
 
-We plan to integrate **AI-powered video summaries** in the future.
-Stay tuned for updates in a separate module.
+Use [YouTube Transcript Extractor](https://github.com/yiApollo/YouTube-Transcript-Extractor-Auto-Whisper-Fallback)
+
+Simply upload the complete `.md` file with full playlist transcripts—or only the specific `.md` files you need—to Google NotebookLM, ChatGPT, or your preferred AI, and ask for a summary.
+
+This tool wasn't built for summarizing individual videos—there are already many tools for that. It was designed specifically to help summarize entire playlists of content and courses from YouTube.
+
 
 ---
 
