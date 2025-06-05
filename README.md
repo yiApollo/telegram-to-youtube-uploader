@@ -1,7 +1,7 @@
 # telegram-to-youtube-uploader
 A program that downloads videos from Telegram channels and automatically uploads them to YouTube as unlisted, organizing them into playlists based on the filenames.
 
-# 📥 Telegram to YouTube Organizer
+# 📥 Telegram to YouTube Uploader
 
 Automates downloading videos from **Telegram channels** (like online courses), organizing them locally, and uploading them to **YouTube** as **unlisted videos** in a private playlist with proper naming and order.
 
