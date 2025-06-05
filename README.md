@@ -178,3 +178,8 @@ To ensure proper detection and organization:
 Lesson 1 - ChannelName
 
 And include them in the playlist.
+
+# ⚡ Powerful Usage: Automate Uploads & Summarize Entire Playlists
+
+Use with [YouTube Transcript Extractor](https://github.com/yiApollo/YouTube-Transcript-Extractor-Auto-Whisper-Fallback)
+to summarize your content.
