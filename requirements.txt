@@ -1,0 +1,5 @@
+telethon
+google-api-python-client
+oauth2client
+pip install tqdm
+
