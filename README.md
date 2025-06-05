@@ -65,7 +65,7 @@ Go to My Telegram, API Development Tools, and create an API.
 ### 4. Organize uploaded videos on YouTube
 
 ```bash
-python3 organizador.py
+python3 organizer.py
 ```
 
 * Creates an unlisted playlist
@@ -132,7 +132,7 @@ API_HASH = 'your_api_hash'
 
 ### 5. First-Time Authentication
 
-* Run any script (e.g. `organizador.py`)
+* Run any script (e.g. `organizer.py`)
 * Browser will open for login/authorization
 * Paste code back into terminal
 * Token is saved automatically
