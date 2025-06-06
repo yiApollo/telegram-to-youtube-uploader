@@ -6,6 +6,9 @@ A program that downloads videos from Telegram channels and automatically uploads
 Automates downloading videos from **Telegram channels** (like online courses), organizing them locally, and uploading them to **YouTube** as **unlisted videos** in a private playlist with proper naming and order.
 
 ---
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+
 
 ## 🔧 Features
 
