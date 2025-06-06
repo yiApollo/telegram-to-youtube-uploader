@@ -179,6 +179,12 @@ Lesson 1 - ChannelName
 
 And include them in the playlist.
 
+
+## 📜 License
+MIT — feel free to use, modify, and share.
+
+---
+
 # ⚡ Powerful Usage: Automate Uploads & Summarize Entire Playlists
 
 Use with [YouTube Transcript Extractor](https://github.com/yiApollo/YouTube-Transcript-Extractor-Auto-Whisper-Fallback)
